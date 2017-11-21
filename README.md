@@ -9,3 +9,4 @@
 - [JS闭包](https://github.com/ElonXun/blog/issues/5)
 - [React项目从创建到打包到云服务器指南](https://github.com/ElonXun/blog/issues/6)
 - [基于Node的Koa2项目从创建到打包到云服务器指南](https://github.com/ElonXun/blog/issues/7)
+- [web开发常用的几种居中形式](https://github.com/ElonXun/blog/issues/8)
